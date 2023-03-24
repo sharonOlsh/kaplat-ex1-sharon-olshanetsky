@@ -1,1 +1,2 @@
 This is my first work in gitHub
+This is the first change I am doing in a.txt

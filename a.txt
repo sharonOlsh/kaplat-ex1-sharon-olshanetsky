@@ -1,1 +1,3 @@
 This is my first work in gitHub
+This is the first change I am doing in a.txt
+This is the second change I am doing in a.txt in GitHub
